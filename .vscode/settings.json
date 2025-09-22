@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "Boggiebug",
+        "DNSKEY",
+        "gaierror",
+        "iplist",
+        "NAPTR",
+        "NXDOMAIN",
+        "pingspy",
+        "rdata",
+        "rdpit",
+        "reversename",
+        "seperated"
+    ],
+    "python.analysis.extraPaths": [
+        "./ip_pings",
+        "./dns_recs"
+    ]
+}
